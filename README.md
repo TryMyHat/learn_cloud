@@ -24,7 +24,7 @@ AWS puts a lot of videos out on YouTube.  You can watch sessions from re:Invent,
 
 ### Courses
 There is a free (at this moment) course from Linux Academy on Udemy, that is a project based lab type class.  I only made it halfway through, but I do want to go back to it.  https://www.udemy.com/aws-essentials/ There was also a nice overview one, but I don’t think it is still there. 
- Linux Academy of course has its own site, https://linuxacademy.com/amazon-web-services/courses, and they offer a free 7 day trial.
+Linux Academy of course has its own site, https://linuxacademy.com/amazon-web-services/courses, and they offer a free 7 day trial.
 
 A Cloud guru also has one: https://acloud.guru/learn/aws-technical-essentials
 
@@ -36,15 +36,13 @@ Udemy had a pretty good course that was an Intro to AWS Certified Solutions Arch
 
 I believe a Udemy course is how I got on email mailing list gives 10 practice questions a week. It is months after I passed the exam, and I still click through these questions weekly, just to make sure I’m not losing what I’ve learned.  And, of course, they offer additional classes, too. http://awspro.academy/sign-up-for-our-newsletter/
 
-I have taken the Solutions Architect Associate course from A Cloud Guru (https://acloud.guru/).  I actually purchased the course during a www.udemy.com sale ($15), but it is also on sale right now on the acloudguru site for $29 (https://acloud.guru/learn/aws-certified-solutions-architect-associate ), for 22 hours of training.  Because AWS is constantly updating, some of the lessons need to be updated, and there were of few sections where I gritted my teeth because we were not securing anything.  But overall I thought it was worth the time and money.  Sitting for the exam is only $150, too. https://aws.amazon.com/certification/certified-solutions-architect-associate/
+I have taken the Solutions Architect Associate course from A Cloud Guru (https://acloud.guru/).  I actually purchased the course during a www.udemy.com sale ($15), but it has also been on sale on the acloudguru site for $29 (https://acloud.guru/learn/aws-certified-solutions-architect-associate ), for 22 hours of training.  Because AWS is constantly updating, some of the lessons need to be updated, and there were of few sections where I gritted my teeth because we were not securing anything.  But overall I thought it was worth the time and money.  Sitting for the exam is only $150, too. https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 I did buy the book from Amazon, but used it more as a reference. (https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558/ref=sr_1_1?ie=UTF8&qid=1492192041&sr=8-1&keywords=aws+solution+architect+book)
 There were a couple of online tests with it that I used.  Helpful, but not nearly as good as taking the actual practice test you can purchase when you are purchasing the exam.
 Cloud Security Alliance(CSA) also has a certification, the CCSK.  I don’t have that one yet, and will update this when I do.  https://cloudsecurityalliance.org/education/ccsk/#_overview
 
-CSA also joined forces with ISC2 on the Certified Cloud Security Professional (CCSP). Just what I need, another ISC2 cert. Let the beer bets on when I go ahead and get this begin! https://cloudsecurityalliance.org/education/ccsp/#_overview https://www.isc2.org/en/Certifications/CCSP 
-
-CompTIA has a certification, too.  I am sure there are some situations where this would be an appropriate use of time, but I sure can’t think of any.
+CSA also joined forces with ISC2 on the Certified Cloud Security Professional (CCSP). https://cloudsecurityalliance.org/education/ccsp/#_overview https://www.isc2.org/en/Certifications/CCSP 
 
 ## Continued Learning
 AWS is announcing new services every day.  You can find their announcements at https://aws.amazon.com/new/ 
